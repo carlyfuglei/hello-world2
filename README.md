@@ -1,2 +1,1 @@
-# hello-world2
-tutorial repository
+Learning how to git git
